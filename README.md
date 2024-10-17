@@ -1,6 +1,6 @@
 Biblioteca(LIB) de Geração de Chaves Surrogate
 
-ma biblioteca em Python para gerar chaves surrogate mascarando IDs usando algoritmos de hashing. Esta biblioteca foi 
+Biblioteca em Python para gerar chaves surrogate mascarando IDs usando algoritmos de hashing. Esta biblioteca foi 
 desenvolvida para facilitar a criação de chaves surrogate para IDs de banco de dados ou outros identificadores, 
 com suporte para adicionar um salt, proporcionando maior segurança e singularidade.
 
