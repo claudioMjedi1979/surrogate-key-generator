@@ -1,0 +1,6 @@
+setup.py
+surrogate_lib.egg-info/PKG-INFO
+surrogate_lib.egg-info/SOURCES.txt
+surrogate_lib.egg-info/dependency_links.txt
+surrogate_lib.egg-info/not-zip-safe
+surrogate_lib.egg-info/top_level.txt

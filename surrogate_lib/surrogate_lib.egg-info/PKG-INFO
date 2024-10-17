@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: surrogate_lib
+Version: 0.1
+Summary: Biblioteca para gerar surrogate keys mascarando IDs
+Author: Claudio
